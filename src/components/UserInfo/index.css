@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.userInfo {
+  text-align: center;
+}
+
+.userImgStyle {
+  height: 50%;
+  width: 50%;
+}
